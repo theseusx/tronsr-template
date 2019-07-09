@@ -1,1 +1,1 @@
-Describe your server configuration
+Elastic node hosted on VPS provider in US West
