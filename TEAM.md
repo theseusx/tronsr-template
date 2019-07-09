@@ -1,14 +1,5 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: Will (https://github.com/hatten33)
+Role: Platform Development
 
-## Team Member 1
-
-Name: [name]
-Role: [role]
-
-## Team Member 2
-
-Name: [name]
-Role: [role]
